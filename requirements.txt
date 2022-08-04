@@ -1,0 +1,6 @@
+flask
+pandas
+SQLAlchemy
+Jinja2
+Flask-Bootstrap
+Flask-SQLAlchemy
